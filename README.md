@@ -4,7 +4,6 @@ An ever growing list of prototyping tools. I will add some desciptions and tags/
 
 ### Axure RP
 [http://www.axure.com/](http://www.axure.com/)
-Mac / Windows
 
 ### Balsamiq Mockups
 [https://balsamiq.com/products/mockups/](https://balsamiq.com/products/mockups/)
