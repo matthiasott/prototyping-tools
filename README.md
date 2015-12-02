@@ -1,6 +1,6 @@
 # Interface Prototyping Tools
 
-An ever growing list of prototyping tools. I will add some desciptions and tags/categories ASAP.
+An ever-growing list of prototyping tools. I will add some desciptions and tags/categories ASAP.
 
 ### Axure RP
 [http://www.axure.com/](http://www.axure.com/)
