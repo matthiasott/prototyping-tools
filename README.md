@@ -79,18 +79,18 @@ Lets you build lightweight prototypes directly in Sketch.
 [http://silverflows.com/](http://silverflows.com/)
 
 ### Adobe Experience Designer CC
-Design and prototype websites and mobile apps with Adobe Experience Design CC (formerly Project Comet), the first all-in-one tool for UX designers.
+Design and prototype websites and mobile apps with Adobe Experience Design CC (formerly Project Comet), the first all-in-one tool for UX designers.   
 [http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
 
 ### Wireframe.cc
-Browser-based tool with a super simple interface.
+Browser-based tool with a super simple interface.   
 [https://wireframe.cc/](https://wireframe.cc/)
 
 ### Mockflow
 [https://mockflow.com/](https://mockflow.com/)
 
 ### Composite
-Composite is a brand new way of creating interactive prototypes. It automatically connects to your Photoshop® documents and converts your mockups into interactive prototypes.
+Composite is a brand new way of creating interactive prototypes. It automatically connects to your Photoshop® documents and converts your mockups into interactive prototypes.   
 [http://www.getcomposite.com/](http://www.getcomposite.com/)
 
 ### Mockingbird
