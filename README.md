@@ -95,3 +95,21 @@ Composite is a brand new way of creating interactive prototypes. It automaticall
 
 ### Mockingbird
 [https://gomockingbird.com/](https://gomockingbird.com/)
+
+### Vectr
+Vectr is a free graphics editor used to create vector graphics easily and intuitively.   
+[https://vectr.com/](https://vectr.com/)
+
+### Atomic
+[https://www.atomic.io/](https://www.atomic.io/)
+
+### Easee
+…is a web animation tool for designers.   
+[https://easee.design/](https://easee.design/)
+
+### Adobe Comp CC
+Create layouts on your phone or tablet using natural drawing gestures.   
+[http://www.adobe.com/ca/products/comp.html](http://www.adobe.com/ca/products/comp.html)
+
+### Codepen
+[https://codepen.io/](https://codepen.io/)
