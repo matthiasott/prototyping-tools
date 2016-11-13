@@ -120,9 +120,6 @@ http://www.appcooker.com/
 ### Canvas Flip
 https://www.canvasflip.com/
 
-### App Cooker
-http://www.appcooker.com/
-
 ### Ionic Creator
 http://ionic.io/products/creator
 
