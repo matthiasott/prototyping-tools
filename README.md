@@ -123,9 +123,6 @@ https://www.canvasflip.com/
 ### App Cooker
 http://www.appcooker.com/
 
-### Briefs
-http://giveabrief.com/
-
 ### Ionic Creator
 http://ionic.io/products/creator
 
