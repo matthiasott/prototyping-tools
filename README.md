@@ -20,6 +20,9 @@ An ever-growing list of prototyping tools. I will add some desciptions and tags/
 ### InVision
 [http://www.invisionapp.com/](http://www.invisionapp.com/)
 
+### Craft (InVision + Silverflow)
+[https://www.invisionapp.com/craft](https://www.invisionapp.com/craft)
+
 ### UXPin
 [https://www.uxpin.com/](https://www.uxpin.com/)
 
