@@ -38,6 +38,13 @@ Fuse is a set of user experience development tools that unify design, prototypin
 
 [https://www.fusetools.com/](https://www.fusetools.com/)
 
+### Kite Compositor
+
+Animation and prototyping application for Mac & iOS.
+“Visually drag and drop layers to build complex interfaces on a WYSIWYG canvas. Add animations and tune them with the integrated timeline.”
+
+[https://kiteapp.co/](https://kiteapp.co/)
+
 ### Marvel
 [https://marvelapp.com/](https://marvelapp.com/)
 
