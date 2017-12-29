@@ -2,6 +2,9 @@
 
 An ever-growing list of prototyping tools. I will continuously add more desciptions and tags/categories.
 
+### Codepen
+[https://codepen.io/](https://codepen.io/)
+
 ### Axure RP
 Axure, one of the industry standards for wireframes and interactive prototypes, allows you to create comprehensive wireframes for applications and websites with interactive modules, dynamic content, and conditional logic without writing a single line of code. It also has strong documentation features.    
 
@@ -14,14 +17,15 @@ Axure, one of the industry standards for wireframes and interactive prototypes, 
 ### Balsamiq Mockups
 [https://balsamiq.com/products/mockups/](https://balsamiq.com/products/mockups/)
 
-### OmniGraffle
-[https://www.omnigroup.com/omnigraffle/](https://www.omnigroup.com/omnigraffle/)
+### Adobe XD CC
 
-### Briefs
-[http://giveabrief.com/](http://giveabrief.com/)
+Design and prototype websites and mobile apps with Adobe XD CC (formerly Project Comet), the first all-in-one tool for UX designers.  
+Adobe XD is an all-in-one UX/UI solution for designing websites, mobile apps, and more.
 
-### Antetype
-[http://www.antetype.com/](http://www.antetype.com/)
+[http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
+
+### Framer
+[http://framerjs.com/](http://framerjs.com/)
 
 ### InVision
 [http://www.invisionapp.com/](http://www.invisionapp.com/)
@@ -34,6 +38,9 @@ This suite of plugins for Sketch called Craft by InVision also features a plugin
 
 ### UXPin
 [https://www.uxpin.com/](https://www.uxpin.com/)
+
+### OmniGraffle
+[https://www.omnigroup.com/omnigraffle/](https://www.omnigroup.com/omnigraffle/)
 
 ### Fuse
 
@@ -66,6 +73,12 @@ Quant-UX provides an integrated usability tool to design, test and analyze inter
 
 [https://www.quant-ux.com/](https://www.quant-ux.com/)
 
+### Briefs
+[http://giveabrief.com/](http://giveabrief.com/)
+
+### Antetype
+[http://www.antetype.com/](http://www.antetype.com/)
+
 ### Marvel
 [https://marvelapp.com/](https://marvelapp.com/)
 
@@ -93,9 +106,6 @@ Quant-UX provides an integrated usability tool to design, test and analyze inter
 ### Pixate
 [http://www.pixate.com/](http://www.pixate.com/)
 
-### Framer
-[http://framerjs.com/](http://framerjs.com/)
-
 ### Origami (with Quartz Composer)
 [http://facebook.github.io/origami/](http://facebook.github.io/origami/)
 
@@ -111,15 +121,8 @@ Instant Native Prototypes: Build and customize native prototypes directly on dev
 ### POP – Prototyping on Paper
 [https://popapp.in/](https://popapp.in/)
 
-### Macaw
-[http://macaw.co/](http://macaw.co/)
-
 ### Proto (CSS toolkit)
 [http://adamwhitcroft.com/proto/](http://adamwhitcroft.com/proto/)
-
-### Adobe Experience Design CC
-Design and prototype websites and mobile apps with Adobe Experience Design CC (formerly Project Comet), the first all-in-one tool for UX designers.   
-[http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
 
 ### Wireframe.cc
 Browser-based tool with a super simple interface.   
@@ -149,9 +152,6 @@ Vectr is a free graphics editor used to create vector graphics easily and intuit
 ### Adobe Comp CC
 Create layouts on your phone or tablet using natural drawing gestures.   
 [http://www.adobe.com/ca/products/comp.html](http://www.adobe.com/ca/products/comp.html)
-
-### Codepen
-[https://codepen.io/](https://codepen.io/)
 
 ### App Cooker
 http://www.appcooker.com/
@@ -209,3 +209,6 @@ http://goratchet.com/
 
 ### UX App
 https://www.ux-app.com/
+
+### Macaw
+[http://macaw.co/](http://macaw.co/)
