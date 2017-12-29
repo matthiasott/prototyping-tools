@@ -32,6 +32,12 @@ Axure, one of the industry standards for wireframes and interactive prototypes, 
 ### UXPin
 [https://www.uxpin.com/](https://www.uxpin.com/)
 
+### Fuse
+
+Fuse is a set of user experience development tools that unify design, prototyping and implementation of high quality mobile apps. The core Fuse platform is free and open source (MIT license).
+
+[https://www.fusetools.com/](https://www.fusetools.com/)
+
 ### Marvel
 [https://marvelapp.com/](https://marvelapp.com/)
 
