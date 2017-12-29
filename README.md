@@ -26,7 +26,10 @@ Axure, one of the industry standards for wireframes and interactive prototypes, 
 ### InVision
 [http://www.invisionapp.com/](http://www.invisionapp.com/)
 
-### Craft (InVision + Silverflow)
+### Craft Prototype for Sketch
+
+This suite of plugins for Sketch called Craft by InVision also features a plugin that lets you quickly create clickable prototypes out of your static screens.
+
 [https://www.invisionapp.com/craft](https://www.invisionapp.com/craft)
 
 ### UXPin
@@ -113,13 +116,6 @@ Instant Native Prototypes: Build and customize native prototypes directly on dev
 
 ### Proto (CSS toolkit)
 [http://adamwhitcroft.com/proto/](http://adamwhitcroft.com/proto/)
-
-### Silver
-Lets you build lightweight prototypes directly in Sketch.
-
-[Video](https://vimeo.com/146209558)
-
-[http://silverflows.com/](http://silverflows.com/)
 
 ### Adobe Experience Design CC
 Design and prototype websites and mobile apps with Adobe Experience Design CC (formerly Project Comet), the first all-in-one tool for UX designers.   
