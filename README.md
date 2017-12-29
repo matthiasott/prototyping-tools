@@ -57,6 +57,12 @@ One-stop solution for prototyping and usability testing: Run usability tests on 
 
 [https://konceptapp.com/](https://konceptapp.com/)
 
+### Quant-UX
+
+Quant-UX provides an integrated usability tool to design, test and analyze interaction prototypes. Offers a visual editor with CSS3 styling and transitions to create fully functional prototypes. Recording of interaction during a test and real-time analysis.
+
+[https://www.quant-ux.com/](https://www.quant-ux.com/)
+
 ### Marvel
 [https://marvelapp.com/](https://marvelapp.com/)
 
