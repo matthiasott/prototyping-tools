@@ -45,6 +45,12 @@ Animation and prototyping application for Mac & iOS.
 
 [https://kiteapp.co/](https://kiteapp.co/)
 
+### Justinmind
+
+All-in-one Prototyping Tool for web and mobile apps. Drag-and-drop interface for building high-fidelity website wireframes and fully functional prototypes.
+
+[https://www.justinmind.com/](https://www.justinmind.com/)
+
 ### Marvel
 [https://marvelapp.com/](https://marvelapp.com/)
 
