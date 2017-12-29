@@ -1,8 +1,14 @@
 # Interface Prototyping Tools
 
-An ever-growing list of prototyping tools. I will add some desciptions and tags/categories ASAP.
+An ever-growing list of prototyping tools. I will continuously add more desciptions and tags/categories.
 
 ### Axure RP
+Axure, one of the industry standards for wireframes and interactive prototypes, allows you to create comprehensive wireframes for applications and websites with interactive modules, dynamic content, and conditional logic without writing a single line of code. It also has strong documentation features.    
+
+**Strenghts:** Rich interactive wireframes, even for huge portals, widget libraries   
+
+**Weaknesses:** Slightly dusty interface, creating sophisticated interactions and logic is cumbersome, animations are not performant, no fluid layouts (only adaptive with fixed-width screens)  
+
 [http://www.axure.com/](http://www.axure.com/)
 
 ### Balsamiq Mockups
