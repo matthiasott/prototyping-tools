@@ -69,6 +69,12 @@ https://itunes.apple.com/in/app/demonstrate-mobile-prototyping/id726285449?mt=8
 ### Evolus Pencil Project
 http://pencil.evolus.vn/
 
+### Figma
+
+The popular interface design tool now also has a ‘prototyping mode’ that lets you link frames and objects to create basic clickable prototypes.
+
+[https://www.figma.com/](https://www.figma.com/)
+
 ### Flinto
 [https://www.flinto.com/](https://www.flinto.com/)
 
