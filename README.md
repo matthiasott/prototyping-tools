@@ -329,6 +329,14 @@ http://goratchet.com/
 
 ---
 
+### Studio
+
+Free online responsive design tool from Japan with interactive multi-device live preview.
+
+[https://studio.design/](https://studio.design/)
+
+---
+
 ### UX App
 https://www.ux-app.com/
 
