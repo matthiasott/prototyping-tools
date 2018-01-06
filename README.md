@@ -159,6 +159,14 @@ Fuse is a set of user experience development tools that unify design, prototypin
 
 ---
 
+### Gravit
+
+Gravit Designer is a full featured free vector design app right at your fingertip. It is available for different platforms including Mac, Windows, Linux, Chrome and the Web.
+
+[https://gravit.io/](https://gravit.io/)
+
+---
+
 ### HTML, CSS, JavaSript
 FTW ;)
 
