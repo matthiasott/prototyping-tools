@@ -126,6 +126,14 @@ The popular interface design tool now also has a ‘prototyping mode’ that let
 
 ---
 
+### Flinto Lite
+
+With Flinto Lite, you can connect your static screen designs visually into an interactive prototype.
+
+[https://www.flinto.com/lite](https://www.flinto.com/lite)
+
+---
+
 ### Floid
 [https://floid.io/](https://floid.io/)
 
