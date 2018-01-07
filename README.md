@@ -19,6 +19,14 @@ Adobe XD is an all-in-one UX/UI solution for designing websites, mobile apps, an
 
 ---
 
+### Anima
+
+A suite of Sketch plugins meant for quickly scaling up marketing sites, but can be used for prototyping and proofs of concept.
+
+[https://www.animaapp.com/](https://www.animaapp.com/)
+
+---
+
 ### Antetype
 [http://www.antetype.com/](http://www.antetype.com/)
 
