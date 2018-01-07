@@ -141,6 +141,14 @@ http://framework7.io/
 
 ---
 
+### Frontify Workspace
+
+Simplified design collaboration and prototyping. You can transform your static screens into interactive prototypes and also add gestures to create clickable interactions.
+
+https://frontify.com/workspace
+
+---
+
 ### Form
 
 Instant Native Prototypes: Build and customize native prototypes directly on device. Form is an OS X app with a patch-based interface similar to Quartz Composer.
