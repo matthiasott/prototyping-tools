@@ -19,19 +19,19 @@ Adobe XD is an all-in-one UX/UI solution for designing websites, mobile apps, an
 
 ---
 
-### Anima
-
-A suite of Sketch plugins meant for quickly scaling up marketing sites, but can be used for prototyping and proofs of concept.
-
-[https://www.animaapp.com/](https://www.animaapp.com/)
-
----
-
 ### Alva
 
 A digital design tool built for cross-functional product teams. Alva lets you design interactive products based on the same components your engineers are using for production websites. 
 
 [https://meetalva.io/](https://meetalva.io/)
+
+---
+
+### Anima
+
+A suite of Sketch plugins meant for quickly scaling up marketing sites, but can be used for prototyping and proofs of concept.
+
+[https://www.animaapp.com/](https://www.animaapp.com/)
 
 ---
 
