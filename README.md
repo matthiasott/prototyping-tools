@@ -15,7 +15,7 @@ Create layouts on your phone or tablet using natural drawing gestures.
 Design and prototype websites and mobile apps with Adobe XD CC (formerly Project Comet), the first all-in-one tool for UX designers.  
 Adobe XD is an all-in-one UX/UI solution for designing websites, mobile apps, and more.
 
-[http://www.adobe.com/products/experience-design.html](http://www.adobe.com/products/experience-design.html)
+[http://xd.adobe.com/](http://xd.adobe.com/)
 
 ---
 
