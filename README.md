@@ -199,7 +199,7 @@ Gravit Designer is a full featured free vector design app right at your fingerti
 
 ---
 
-### HTML, CSS, JavaSript
+### HTML, CSS, JavaScript
 FTW ;)
 
 ---
