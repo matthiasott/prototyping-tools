@@ -35,44 +35,35 @@ A suite of Sketch plugins meant for quickly scaling up marketing sites, but can 
 
 ---
 
-### Antetype
-[http://www.antetype.com/](http://www.antetype.com/)
-
----
-
 ### App Cooker
-http://www.appcooker.com/
 
----
+Prototyping studio for Apple Watch, iPhone and iPad apps.
 
-### Atomic
-[https://www.atomic.io/](https://www.atomic.io/)
+[http://www.appcooker.com/](http://www.appcooker.com/)
 
 ---
 
 ### Avocado by IDEO (with Quartz Composer)
+
+Avocado is an open source interaction design toolbox built by IDEO. It enables designers to make quick interactive prototypes without writing a line of code. Built on top of Facebook's Origami framework, Avocado provides ready-to-use patches that can be easily combined to create fully-customized prototypes.
+
 [http://avocado.ideo.com/](http://avocado.ideo.com/)
 
 ---
 
 ### Axure RP
-Axure, one of the industry standards for wireframes and interactive prototypes, allows you to create comprehensive wireframes for applications and websites with interactive modules, dynamic content, and conditional logic without writing a single line of code. It also has strong documentation features.    
-
-**Strenghts:** Rich interactive wireframes, even for huge portals, widget libraries   
-
-**Weaknesses:** Slightly dusty interface, creating sophisticated interactions and logic is cumbersome, animations are not performant, no fluid layouts (only adaptive with fixed-width screens)  
+Axure, one of the industry standards for wireframes and interactive prototypes, allows you to create comprehensive wireframes for applications and websites with interactive modules, dynamic content, and conditional logic without writing a single line of code. It also has strong documentation features.
 
 [http://www.axure.com/](http://www.axure.com/)
 
 ---
 
 ### Balsamiq Mockups
+
+Balsamiq Mockups is a mockup and website wireframe builder application. It allows the designer to arrange pre-built widgets using a drag-and-drop WYSIWYG editor. The application is offered in a desktop version as well as a plug-in for Google Drive, Confluence and JIRA. 
+
 [https://balsamiq.com/products/mockups/](https://balsamiq.com/products/mockups/)
 
----
-
-### Briefs
-[http://giveabrief.com/](http://giveabrief.com/)
 
 ---
 
@@ -186,8 +177,11 @@ Fuse is a set of user experience development tools that unify design, prototypin
 
 ---
 
-### Framer
-[http://framerjs.com/](http://framerjs.com/)
+### Framer X
+
+“Framer X has all the features you need to draw everything from custom icons to intricate illustrations. Fine-tune your designs with our advanced path editor, export anything from your canvas, and more.”
+
+[https://framer.com/](https://framer.com/)
 
 ---
 
@@ -406,7 +400,17 @@ Browser-based tool with a super simple interface.
 [https://wireframe.cc/](https://wireframe.cc/)
 
 ---
+
 ## *Discontinued / “We are beyond excited to announce…”:*
+
+### Antetype
+[http://www.antetype.com/](http://www.antetype.com/)
+
+### Atomic
+[https://www.atomic.io/](https://www.atomic.io/)
+
+### Briefs
+[http://giveabrief.com/](http://giveabrief.com/)
 
 ### Macaw
 [http://macaw.co/](http://macaw.co/)
