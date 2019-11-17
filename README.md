@@ -35,6 +35,11 @@ A suite of Sketch plugins meant for quickly scaling up marketing sites, but can 
 
 ---
 
+### Antetype
+[http://www.antetype.com/](http://www.antetype.com/)
+
+---
+
 ### App Cooker
 
 Prototyping studio for Apple Watch, iPhone and iPad apps.
@@ -203,13 +208,21 @@ FTW ;)
 
 ---
 
-### Indigo Studio
+### Indigo Studio    
 http://www.infragistics.com/products/indigo-studio
 
 ---
 
-### InVision
-[http://www.invisionapp.com/](http://www.invisionapp.com/)
+### InVision    
+https://www.invisionapp.com/
+
+---
+
+### InVision Studio    
+
+Invision's screen design tool with prototyping, animation, and collaboration features.
+
+https://www.invisionapp.com/studio
 
 ---
 
@@ -402,9 +415,6 @@ Browser-based tool with a super simple interface.
 ---
 
 ## *Discontinued / “We are beyond excited to announce…”:*
-
-### Antetype
-[http://www.antetype.com/](http://www.antetype.com/)
 
 ### Atomic
 [https://www.atomic.io/](https://www.atomic.io/)
